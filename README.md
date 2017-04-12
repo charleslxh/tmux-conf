@@ -30,6 +30,10 @@ Press `Ctrl + prefix key`, then press `%`.
 
 Press `Ctrl + prefix key`, then press `c`.
 
+## Use tmux tools.
+
+- tmuxinator: https://github.com/tmuxinator/tmuxinator
+
 ## Example
 
 ![app-log](./app-log.png)
